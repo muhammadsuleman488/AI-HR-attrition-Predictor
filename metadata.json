@@ -1,0 +1,6 @@
+{
+  "name": "HR Workforce Analytics Dashboard",
+  "description": "Executive HR analytics platform for attrition analysis, K-Means employee clustering, ML attrition risk prediction, and AI workforce intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
